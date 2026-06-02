@@ -1,0 +1,5 @@
+Account Unlock Process
+
+1. Verify employee ID.
+2. Unlock account in Active Directory.
+3. Notify user.
